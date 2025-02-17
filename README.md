@@ -10,6 +10,8 @@ We use logistic regression to classify transactions as either legitimate or frau
 
 The performance of the model is evaluated using the accuracy metric, which is the fraction of correctly classified transactions. The accuracy on the training and testing data is calculated using the accuracy_score() function from scikit-learn.
 
+[View Jupyter Notebook](D:\data analytics\Projects.ipynb)
+
 
 ## Streamlit Application
 
